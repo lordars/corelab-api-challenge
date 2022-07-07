@@ -1,0 +1,22 @@
+PORT= 3000
+DB_URI_MONGO=mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb][?options]]
+PUBLIC_URL=http://localhost:3000
+JWT_SECRET= CHAVE JWT
+URL_SLACK_HOOK= "dasfsdfasdfkljhskljhljk3hlk23lkjlkj"
+MYSQL_DATABASE= test
+MYSQL_USERNAME=root
+MYSQL_PASSWORD=123456
+MYSQL_HOST=127.0.0.1
+ENGINE_DB= nosql
+
+
+PORT= 3000
+DB_URI_MONGO=mongodb+srv://corelab-api-challenge:sq7KhSi4VlqTN4e9@cluster0.hxiz8.mongodb.net/corelab-api-challenge?retryWrites=true&w=majority
+PUBLIC_URL=http://localhost:3000
+JWT_SECRET=URSOLOCO123456
+URL_SLACK_HOOK=https://hooks.slack.com/services/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
+MYSQL_DATABASE=test
+MYSQL_USERNAME=root
+MYSQL_PASSWORD=TeuPwds
+MYSQL_HOST=127.0.0.1
+ENGINE_DB=nosql
