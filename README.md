@@ -15,13 +15,18 @@ Repository:
   1.Donwload https://github.com/lordars/corelab-api-challenge ZIP OR git clone https://github.com/lordars/corelab-api-challenge.
   2. enter the created directory, or unzipped it, open in vscode your favorite.
   3. change or copy .env.example file to .env
+
+
   
   ## PORT= 3000  ==> -_- port
+  
+   ![image](https://user-images.githubusercontent.com/40031403/177888752-22f91a9c-e567-4a74-b095-afc7d3ddb9b9.png)
+   
   ## DB_URI_MONGO=mongodb+srv://ARIS:Oe1iHphKI317e701@apicluster.75m0a.mongodb.net/bancodaapi?retryWrites=true&w=majority
   
      create your own mongodb at https://www.mongodb.com/atlas/database
      
-     ![image](https://user-images.githubusercontent.com/40031403/177888752-22f91a9c-e567-4a74-b095-afc7d3ddb9b9.png)
+    
 
   
   ## PUBLIC_URL=http://localhost:3000   ==> -_- Url your site..
@@ -52,3 +57,6 @@ if you want to opt for a mysql database you must change Engine_DB = mysql
 
   **Obiuos reasons, The application does not support to make a crud, for the size,
   **and I need time to improve the code, another reason that was created to show the participant's level of knowledge.
+  
+  
+  ## NPM START  ....LET'S GO BABY ... NOW CREATING THE FRONT
