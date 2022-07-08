@@ -17,7 +17,7 @@ Repository:
   3. change or copy .env.example file to .env
   
   ## PORT= 3000  ==> -_- port
-  ## DB_URI_MONGO=mongodb+srv://ARIS:Oe1iHphKI317e701@apicluster.75m0a.mongodb.net/bancodaapi?retryWrites=true&w=majority ==> example
+  ## DB_URI_MONGO=mongodb+srv://ARIS:Oe1iHphKI317e701@apicluster.75m0a.mongodb.net/bancodaapi?retryWrites=true&w=majority
   
      create your own mongodb at https://www.mongodb.com/atlas/database
      
