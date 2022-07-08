@@ -9,7 +9,11 @@ Repository:
 3. Framework: Express.
 4. Database: MongoDb Atlhas or Mysql, Mysql base is not fully implemented, but it works.
 5. WEBHOOKS ERROS SLACK .. IS TRUE ;)
-
+6. JWT
+7. cors
+8. HIRE ME +5512996138668 (WHATSAPP) (BRAZIL/LIVE) (I AM ARGENTINE) (0,0)
+                                                                     -|-  
+                                                                     ´ `
 ### Start
   steps:
   1.Donwload https://github.com/lordars/corelab-api-challenge ZIP OR git clone https://github.com/lordars/corelab-api-challenge.
